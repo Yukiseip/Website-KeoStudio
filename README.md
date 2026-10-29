@@ -143,26 +143,6 @@ keo/
 
 ---
 
-## ☁️ Despliegue en Vercel
-
-El proyecto está 100% optimizado para compilarse y desplegarse en **Vercel**:
-
-### Opción 1: Desde la Web de Vercel (Recomendada)
-1. Sube tu código a un repositorio en **GitHub**.
-2. Entra a [vercel.com](https://vercel.com) e inicia sesión.
-3. Haz clic en **"Add New..."** > **"Project"**.
-4. Selecciona tu repositorio `keo-salon`.
-5. Vercel detectará automáticamente Next.js. Haz clic en **Deploy**.
-
-### Opción 2: Vía Vercel CLI
-```bash
-pnpm add -g vercel
-vercel login
-vercel
-```
-
----
-
 ## 📜 Licencia & Créditos
 
 Desarrollado para **Kéo Salón-Studio** — Tlalpan, CDMX.  
