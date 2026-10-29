@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "skills": {
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "computedHash": "106acf230014cbb43ca34e6410371321b56ca742f9ee0442e8ec05bf02eb0384"
+    },
+    "web-artifacts-builder": {
+      "source": "smithery.ai",
+      "sourceUrl": "https://smithery.ai/skills/anthropics/web-artifacts-builder",
+      "sourceType": "well-known",
+      "computedHash": "c3ec19f30fc85169bee9e0a10974ce6d1045e2068c559ca8739dc9297c8b71b3",
+      "wellKnownDigest": "sha256:fbaf9b9a3569b92629995cb5a1a27ea12c3698ddfe707fb8857ac37624bba1ab"
+    }
+  }
+}
